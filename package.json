@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/farihatulmaria/learning-tailwindcss/issues"
   },
-  "homepage": "https://github.com/farihatulmaria/learning-tailwindcss#readme"
+  "homepage": "https://github.com/farihatulmaria/learning-tailwindcss#readme",
+  "devDependencies": {
+    "tailwindcss": "^2.2.19"
+  }
 }
